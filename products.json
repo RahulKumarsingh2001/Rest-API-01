@@ -1,0 +1,52 @@
+[
+    {
+        "name": "iphone16",
+        "price": 100000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "sumsungs24",
+        "price": 120000,
+        "company": "sumsung"
+    },
+    {
+        "name": "hp",
+        "price": 1900000,
+        "featured": true,
+        "company": "hp"
+    },
+    {
+        "name": "iphone15",
+        "price": 1000,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 12000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "sumsung25",
+        "price": 120000,
+        "company": "sumsung"
+    },
+    {
+        "name": "hpPavalian",
+        "price": 1900000,
+        "featured": true,
+        "company": "hp"
+    },
+    {
+        "name": "iphone10",
+        "price": 1000,
+        "company": "apple"
+    },
+    {
+        "name": "iphone8",
+        "price": 12000,
+        "featured": true,
+        "company": "apple"
+    }
+]
