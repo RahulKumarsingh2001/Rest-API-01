@@ -30,7 +30,7 @@ This is a powerful and flexible **RESTful API** built using **Node.js**, **Expre
 
 ## 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/RahulKumarsingh2001/Rest-API-01
    cd your-repo-name
 
 ## 2. Install dependencies:
