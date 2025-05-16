@@ -29,9 +29,8 @@ This is a powerful and flexible **RESTful API** built using **Node.js**, **Expre
 ## Setup Instructions
 
 ## 1. Clone the repository:
-   bash
    https://github.com/RahulKumarsingh2001/Rest-API-01
-   cd your-repo-name
+   
 
 ## 2. Install dependencies:
  npm install
